@@ -56,7 +56,9 @@ const swiperWatches = new Swiper('.home__swiper', {
   })
 
 /*=============== GSAP ANIMATION ===============*/
-
+gsap.from('.home__images', 1.5, {opacity: 0, y: 150, delay: .1})
+gsap.from('.home__data', 1.8, {opacity: 0, x: 100, delay: .8})
+gsap.from('.home__info', 1.8, {opacity: 0, x: -100, delay: .8})
 
 
 
