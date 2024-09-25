@@ -3,7 +3,7 @@
 # Kent-Watches-Website
 
 Responsive-Headphones-website with:
-1. Beautiful headphone landing page using HTML, CSS and JAVASCRIPT. 
+1. Beautiful 'Kent Watches Website' using HTML, CSS and JAVASCRIPT. 
 2. Dark interface. 
 3. Engaging animations transitions when scrolling. 
 4. Developed first with the Mobile First methodology, then for desktop. 
